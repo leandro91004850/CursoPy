@@ -15,5 +15,7 @@ for tabela in range(1, 550):
     a = navegado.find_elements_by_id('h3-texto')
     print(f' valor da acao: {a[tabela].text}')
 
+
 #finalizar apos busca
 navegado.quit()
+
