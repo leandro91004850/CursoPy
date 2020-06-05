@@ -1,1 +1,9 @@
-print('ola, mundo')
+from newbot import newbot
+
+print('ola, robo')
+
+import re
+
+bott = newbot('roboClimaTempo')
+
+bott.climaTempo()
