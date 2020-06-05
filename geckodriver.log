@@ -286,3 +286,24 @@ JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: , line 0: uncaught exception: Object
+1591390648208	Marionette	INFO	Stopped listening on port 35215
+1591391302713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHgMqbk"
+1591391307162	Marionette	INFO	Listening on port 36117
+1591391307249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591391312643	Marionette	INFO	Stopped listening on port 36117
+1591392485494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAu9Cf2"
+1591392489636	Marionette	INFO	Listening on port 44221
+1591392489730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591392495324	Marionette	INFO	Stopped listening on port 44221
+1591392518707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu1Bpmz"
+1591392522834	Marionette	INFO	Listening on port 44335
+1591392522854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591392529169	Marionette	INFO	Stopped listening on port 44335
+1591393367729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIDh4c4"
+1591393371924	Marionette	INFO	Listening on port 43711
+1591393371974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591393488568	Marionette	INFO	Stopped listening on port 43711
