@@ -2,8 +2,9 @@ from selenium import webdriver
 
 
 #acesso o site
+url = "https://www.facebook.com/"
 driver = webdriver.Firefox()
-driver.get("https://www.facebook.com/")
+driver.get(url)
 
 #informacoes de acesso
 email = "seu-email"
@@ -23,3 +24,10 @@ login_button_element = driver.find_element_by_xpath(login_button_xpath)
 email_element.send_keys(email)
 password_element.send_keys(password)
 login_button_element.click()
+
+
+#variavel da url
+usuario = driver.find_element_by_class_name('_1vp5')
+
+#obtendo o nome do usuario logado
+print(f'o usuario logado é o {usuario.text}')
