@@ -2,7 +2,7 @@ import json
 from time import sleep
 from selenium.webdriver import Firefox
 
-#faz a busca
+# faz a busca
 url = "https://br.investing.com/equities/via-varejo-sa-historical-data"
 endereco = Firefox()
 endereco.get(url)

@@ -1388,3 +1388,221 @@ IPDL protocol error: Handler returned error code!
 
 1591458133655	Marionette	INFO	Stopped listening on port 39869
 1591458140574	Marionette	INFO	Stopped listening on port 44125
+1591458774595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB1Yfqd"
+1591458778670	Marionette	INFO	Listening on port 40717
+1591458778727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591458860469	Marionette	INFO	Stopped listening on port 40717
+1591458863507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee8goK7"
+1591458867570	Marionette	INFO	Listening on port 38029
+1591458867636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591458962615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBK0BRJ"
+1591458967247	Marionette	INFO	Listening on port 33491
+1591458967347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591458968502	Marionette	INFO	Stopped listening on port 38029
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591459236718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFiMAS8"
+1591459241193	Marionette	INFO	Listening on port 40851
+1591459241259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591459243290	Marionette	INFO	Stopped listening on port 33491
+1591459312015	Marionette	INFO	Stopped listening on port 40851
+1591459377652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3uMdyS"
+1591459381784	Marionette	INFO	Listening on port 37481
+1591459381886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591459403728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemSAcd8"
+1591459408139	Marionette	INFO	Listening on port 45069
+1591459408212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591459409438	Marionette	INFO	Stopped listening on port 37481
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591459567419	Marionette	INFO	Stopped listening on port 45069
+1591459571293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSqyE04"
+1591459575361	Marionette	INFO	Listening on port 35873
+1591459575455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591459704327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7FNofB"
+1591459708466	Marionette	INFO	Listening on port 40181
+1591459708570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591459709855	Marionette	INFO	Stopped listening on port 35873
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591459758008	Marionette	INFO	Stopped listening on port 40181
+1591459759963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepGra5l"
+1591459764053	Marionette	INFO	Listening on port 41493
+1591459764089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591459799045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6zhZ26"
+1591459802473	Marionette	INFO	Stopped listening on port 41493
+1591459804077	Marionette	INFO	Listening on port 32871
+1591459804180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591459912980	Marionette	INFO	Stopped listening on port 32871
+1591459915073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5LJoCz"
+1591459919081	Marionette	INFO	Listening on port 44545
+1591459919120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591459924087	Marionette	INFO	Stopped listening on port 44545
+1591460031625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAEu7FX"
+1591460035662	Marionette	INFO	Listening on port 45519
+1591460035764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591460058484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5diS4b"
+1591460063230	Marionette	INFO	Listening on port 44441
+1591460063319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591460063823	Marionette	INFO	Stopped listening on port 45519
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591460074814	Marionette	INFO	Stopped listening on port 44441
+1591460142708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAt0ZEd"
+1591460146916	Marionette	INFO	Listening on port 43517
+1591460146942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591460161521	Marionette	INFO	Stopped listening on port 43517
+1591460635101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYxAwTd"
+1591460639229	Marionette	INFO	Listening on port 41627
+1591460639261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591460644474	Marionette	INFO	Stopped listening on port 41627
+1591460680726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewiJaRo"
+1591460684695	Marionette	INFO	Listening on port 43707
+1591460684752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591460689674	Marionette	INFO	Stopped listening on port 43707
+1591460903831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMK63ij"
+1591460907961	Marionette	INFO	Listening on port 40609
+1591460908065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591460953530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCaovEd"
+1591460957911	Marionette	INFO	Stopped listening on port 40609
+1591460958309	Marionette	INFO	Listening on port 45451
+1591460958385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591461335998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK3Y2oe"
+1591461338778	Marionette	INFO	Stopped listening on port 45451
+1591461340766	Marionette	INFO	Listening on port 33519
+1591461340842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591461396862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNhsGHO"
+1591461400208	Marionette	INFO	Stopped listening on port 33519
+1591461401730	Marionette	INFO	Listening on port 39093
+1591461401798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591461439891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNdVN3B"
+1591461443840	Marionette	INFO	Listening on port 37199
+1591461443935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591461448877	Marionette	INFO	Stopped listening on port 37199
+1591461449085	Marionette	INFO	Stopped listening on port 39093
+1591461809578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefwY3MS"
+1591461813564	Marionette	INFO	Listening on port 36659
+1591461813611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.37, line 97: unreachable code after return statement
+JavaScript error: https://www.geeksforgeeks.org/ line 1 > scriptElement, line 1: TypeError: e is not a function
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.14/require.min.js, line 8: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.37, line 97: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1591461906902	Marionette	INFO	Stopped listening on port 36659
+1591461908740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev2QtEV"
+1591461912786	Marionette	INFO	Listening on port 33455
+1591461912878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.37, line 97: unreachable code after return statement
+JavaScript error: https://www.geeksforgeeks.org/ line 1 > scriptElement, line 1: TypeError: e is not a function
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.37, line 97: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1591461986701	Marionette	INFO	Stopped listening on port 33455
+1591461994044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile80whpL"
+1591461998087	Marionette	INFO	Listening on port 39361
+1591461998190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.37, line 97: unreachable code after return statement
+JavaScript error: https://www.geeksforgeeks.org/ line 1 > scriptElement, line 1: TypeError: e is not a function
+1591462092669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0qmJFy"
+1591462097097	Marionette	INFO	Listening on port 43551
+1591462097133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.37, line 97: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1591462100065	Marionette	INFO	Stopped listening on port 39361
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.37, line 97: unreachable code after return statement
+JavaScript error: https://www.geeksforgeeks.org/ line 1 > scriptElement, line 1: TypeError: e is not a function
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1591462176528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileliqfjs"
+1591462180549	Marionette	INFO	Listening on port 33789
+1591462180575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.37, line 97: unreachable code after return statement
+JavaScript error: https://www.geeksforgeeks.org/ line 1 > scriptElement, line 1: TypeError: e is not a function
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.37, line 97: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1591462528948	Marionette	INFO	Stopped listening on port 33789
+1591466061315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebRTHMy"
+1591466065390	Marionette	INFO	Listening on port 41821
+1591466065441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591466156581	Marionette	INFO	Stopped listening on port 41821
+1591466158833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezba7d8"
+1591466162787	Marionette	INFO	Listening on port 46791
+1591466162870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591466171510	Marionette	INFO	Stopped listening on port 46791
+1591466572704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG7EnxQ"
+1591466576681	Marionette	INFO	Listening on port 41269
+1591466576737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591466607428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGNti1Y"
+1591466607481	Marionette	INFO	Stopped listening on port 41269
+1591466611296	Marionette	INFO	Listening on port 32897
+1591466611405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591466817482	Marionette	INFO	Stopped listening on port 32897
+1591466823073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewq2LuV"
+1591466827172	Marionette	INFO	Listening on port 44897
+1591466827224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591466884655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegQrB4b"
+1591466888752	Marionette	INFO	Listening on port 44817
+1591466888809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591466894674	Marionette	INFO	Stopped listening on port 44897
+1591466916446	Marionette	INFO	Stopped listening on port 44817
+1591466918333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegin98s"
+1591466922331	Marionette	INFO	Listening on port 34185
+1591466922380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591467033210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9i83Xs"
+1591467037576	Marionette	INFO	Listening on port 41079
+1591467037658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591467060671	Marionette	INFO	Stopped listening on port 41079
+1591467061071	Marionette	INFO	Stopped listening on port 34185
+1591467320517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLWDxNN"
+1591467324598	Marionette	INFO	Listening on port 42791
+1591467324662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591467425618	Marionette	INFO	Stopped listening on port 42791
+1591467427324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAskwj3"
+1591467431491	Marionette	INFO	Listening on port 37273
+1591467431551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591467645050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuUZb0X"
+1591467648957	Marionette	INFO	Stopped listening on port 37273
+1591467649726	Marionette	INFO	Listening on port 37661
+1591467649786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591467671040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCl4D0G"
+1591467675843	Marionette	INFO	Stopped listening on port 37661
+1591467675924	Marionette	INFO	Listening on port 41949
+1591467675986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591468740138	Marionette	INFO	Stopped listening on port 41949
+1591468827723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT1qGwh"
+1591468832196	Marionette	INFO	Listening on port 46677
+1591468832264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591468841615	Marionette	INFO	Stopped listening on port 46677
+1591468843649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSS7K3Z"
+1591468847593	Marionette	INFO	Listening on port 37727
+1591468847685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591469253524	Marionette	INFO	Stopped listening on port 37727
