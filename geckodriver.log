@@ -771,3 +771,112 @@ JavaScript error: https://t.dynad.net/script/?dc=5550010343;ord=0;click=, line 1
 JavaScript error: https://t.dynad.net/script/?dc=5550010343;ord=0;click=, line 1250: TypeError: container.contentWindow is null
 JavaScript error: https://t.dynad.net/script/?dc=5550010343;ord=0;click=, line 1250: TypeError: container.contentWindow is null
 1591399998717	Marionette	INFO	Stopped listening on port 38077
+1591400519479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOgmCAh"
+1591400523430	Marionette	INFO	Listening on port 45633
+1591400523507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript error: https://static.folha.uol.com.br/storybook/js/portal-3a0512027a.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591400538711	Marionette	INFO	Stopped listening on port 45633
+1591400562400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile409lvR"
+1591400566464	Marionette	INFO	Listening on port 45985
+1591400566528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591400710157	Marionette	INFO	Stopped listening on port 45985
+1591400713039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN16lUT"
+1591400716908	Marionette	INFO	Listening on port 41573
+1591400716967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591400759918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenpXL6F"
+1591400764668	Marionette	INFO	Listening on port 44771
+1591400764771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591400843923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0no7X1"
+1591400848019	Marionette	INFO	Listening on port 42887
+1591400848056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591400857228	Marionette	INFO	Stopped listening on port 44771
+1591400863859	Marionette	INFO	Stopped listening on port 41573
+1591400866678	Marionette	INFO	Stopped listening on port 42887
+1591400874200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUgAQfo"
+1591400878175	Marionette	INFO	Listening on port 40765
+1591400878233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591401652054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemM1PWQ"
+1591401656129	Marionette	INFO	Listening on port 40929
+1591401656188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591401659278	Marionette	INFO	Stopped listening on port 40765
+1591401666085	Marionette	INFO	Stopped listening on port 40929
+1591401673652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7xaRtb"
+1591401677611	Marionette	INFO	Listening on port 46215
+1591401677704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+1591401705014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQf6vma"
+JavaScript error: https://static.vidazoo.com/basev/1.0.367/sbt.js, line 3: TypeError: this[v_uw(...)] is null
+JavaScript error: dna-persist.min.js, line 4: NS_ERROR_FAILURE: 
+1591401710472	Marionette	INFO	Listening on port 41961
+1591401710493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591401728592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehOvrfs"
+1591401733455	Marionette	INFO	Listening on port 37063
+1591401733520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: dna-persist.min.js, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://static.vidazoo.com/basev/1.0.367/sbt.js, line 3: TypeError: this[v_uw(...)] is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591401789154	Marionette	INFO	Stopped listening on port 41961
+1591401790383	Marionette	INFO	Stopped listening on port 37063
+1591401790403	Marionette	INFO	Stopped listening on port 46215
+1591401795775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXH0A17"
+1591401799746	Marionette	INFO	Listening on port 45353
+1591401799830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+1591401815073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh4vVLs"
+JavaScript error: https://t.dynad.net/script/?dc=5550010343;ord=0;click=, line 1243: TypeError: container.contentWindow is null
+JavaScript error: dna-persist.min.js, line 4: NS_ERROR_FAILURE: 
+1591401819783	Marionette	INFO	Listening on port 41111
+1591401819815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.vidazoo.com/basev/1.0.367/sbt.js, line 3: TypeError: this[v_uw(...)] is null
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+1591401835565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEodDhK"
+JavaScript error: https://t.dynad.net/script/?dc=5550010343;ord=0;click=, line 1243: TypeError: container.contentWindow is null
+JavaScript error: dna-persist.min.js, line 4: NS_ERROR_FAILURE: 
+1591401840536	Marionette	INFO	Listening on port 42939
+1591401840600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.vidazoo.com/basev/1.0.367/sbt.js, line 3: TypeError: this[v_uw(...)] is null
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=1p0oxf, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://t.dynad.net/script/?dc=5550010343;ord=0;click=, line 1243: TypeError: container.contentWindow is null
+JavaScript error: dna-persist.min.js, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://static.vidazoo.com/basev/1.0.367/sbt.js, line 3: TypeError: this[v_uw(...)] is null
+1591406116305	Marionette	INFO	Stopped listening on port 45353
+1591406119870	Marionette	INFO	Stopped listening on port 42939
+1591406121505	Marionette	INFO	Stopped listening on port 41111
