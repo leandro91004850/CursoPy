@@ -880,3 +880,511 @@ JavaScript error: https://static.vidazoo.com/basev/1.0.367/sbt.js, line 3: TypeE
 1591406116305	Marionette	INFO	Stopped listening on port 45353
 1591406119870	Marionette	INFO	Stopped listening on port 42939
 1591406121505	Marionette	INFO	Stopped listening on port 41111
+1591406723288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUWI0Xz"
+1591406729016	Marionette	INFO	Listening on port 39435
+1591406729061	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591406845051	Marionette	INFO	Stopped listening on port 39435
+1591406874167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9JICU8"
+1591406879498	Marionette	INFO	Listening on port 43147
+1591406879546	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591407051159	Marionette	INFO	Stopped listening on port 43147
+1591407063620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC1tq5r"
+1591407067815	Marionette	INFO	Listening on port 34291
+1591407067859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591407151380	Marionette	INFO	Stopped listening on port 34291
+1591407153803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK2Cbtm"
+1591407158128	Marionette	INFO	Listening on port 44905
+1591407158152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591407227216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4av3h8"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591407230321	Marionette	INFO	Stopped listening on port 44905
+1591407232558	Marionette	INFO	Listening on port 44729
+1591407232677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591407612097	Marionette	INFO	Stopped listening on port 44729
+1591407619357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemw136b"
+1591407623667	Marionette	INFO	Listening on port 33341
+1591407623711	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591407729644	Marionette	INFO	Stopped listening on port 33341
+1591407739693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFwqsun"
+1591407743950	Marionette	INFO	Listening on port 36595
+1591407744045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591407805380	Marionette	INFO	Stopped listening on port 36595
+1591407811080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDyqAIj"
+1591407815030	Marionette	INFO	Listening on port 45047
+1591407815112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591407853159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSCCrxE"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591407858282	Marionette	INFO	Listening on port 39517
+1591407858310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591407858968	Marionette	INFO	Stopped listening on port 45047
+1591408010558	Marionette	INFO	Stopped listening on port 39517
+1591408012376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemlKMq7"
+1591408016347	Marionette	INFO	Listening on port 43089
+1591408016410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591408398755	Marionette	INFO	Stopped listening on port 43089
+1591408402519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRixM77"
+1591408406404	Marionette	INFO	Listening on port 37505
+1591408406463	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1591408548769	Marionette	INFO	Stopped listening on port 37505
+1591408550631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYuZJ5h"
+1591408554630	Marionette	INFO	Listening on port 36771
+1591408554666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591408643726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRCzAcF"
+1591408648244	Marionette	INFO	Listening on port 42605
+1591408648272	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591408702502	Marionette	INFO	Stopped listening on port 36771
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591408709798	Marionette	INFO	Stopped listening on port 42605
+1591409049737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIAnTWu"
+1591409053757	Marionette	INFO	Listening on port 46381
+1591409053796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591409435838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVH13uF"
+1591409440882	Marionette	INFO	Listening on port 33925
+1591409440978	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+  Stack:
+    timedFetch/<@resource://services-common/kinto-http-client.js:549:22
+timedFetch@resource://services-common/kinto-http-client.js:527:20
+request@resource://services-common/kinto-http-client.js:613:41
+execute@resource://services-common/kinto-http-client.js:2400:44
+_fetchChangeset@resource://services-settings/RemoteSettingsClient.jsm:932:22
+_importChanges@resource://services-settings/RemoteSettingsClient.jsm:809:20
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:527:35
+observe@resource://gre/modules/AsyncShutdown.jsm:554:16
+
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.warn: services.settings: main/messaging-experiments sync interrupted by shutdown
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.warn: services.settings: blocklists/plugins sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1591409444546	Marionette	INFO	Stopped listening on port 46381
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591409495944	Marionette	INFO	Stopped listening on port 33925
+1591409619669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3zzcCp"
+1591409624122	Marionette	INFO	Listening on port 33227
+1591409624201	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591409754393	Marionette	INFO	Stopped listening on port 33227
+1591409760676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemiA4ha"
+1591409764600	Marionette	INFO	Listening on port 43483
+1591409764633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591409799337	Marionette	INFO	Stopped listening on port 43483
+1591409800652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexrw7Hw"
+1591409804724	Marionette	INFO	Listening on port 33097
+1591409804782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591409812966	Marionette	INFO	Stopped listening on port 33097
+1591409917433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4zlHVj"
+1591409922211	Marionette	INFO	Listening on port 39053
+1591409922301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591409937675	Marionette	INFO	Stopped listening on port 39053
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591409970612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezX35Nu"
+1591409975898	Marionette	INFO	Listening on port 40951
+1591409975948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591409998029	Marionette	INFO	Stopped listening on port 40951
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591410066380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebTuVHS"
+1591410071440	Marionette	INFO	Listening on port 42459
+1591410071522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591410110152	Marionette	INFO	Stopped listening on port 42459
+1591410115690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRYcyUe"
+1591410120984	Marionette	INFO	Listening on port 37415
+1591410121028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591410137674	Marionette	INFO	Stopped listening on port 37415
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591410221955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile32yvp0"
+1591410226741	Marionette	INFO	Listening on port 35157
+1591410226795	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591410306593	Marionette	INFO	Stopped listening on port 35157
+1591410333645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHTctn2"
+1591410338677	Marionette	INFO	Listening on port 33579
+1591410338705	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591410656434	Marionette	INFO	Stopped listening on port 33579
+1591410724768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletXAPR4"
+1591410729538	Marionette	INFO	Listening on port 45631
+1591410729606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591410771668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSnx5Xv"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591410776969	Marionette	INFO	Stopped listening on port 45631
+1591410778086	Marionette	INFO	Listening on port 42489
+1591410778174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591410789209	Marionette	INFO	Stopped listening on port 42489
+1591410918076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile20N1Jm"
+1591410923018	Marionette	INFO	Listening on port 35439
+1591410923118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591410944447	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591411014214	Marionette	INFO	Stopped listening on port 35439
+1591411020178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemlt11b"
+1591411024737	Marionette	INFO	Listening on port 36825
+1591411024817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591411068341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4O4Bee"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591411074919	Marionette	INFO	Listening on port 39841
+1591411074991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591411077824	Marionette	INFO	Stopped listening on port 36825
+1591411205685	Marionette	INFO	Stopped listening on port 39841
+1591411857520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQT49iT"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1591411862497	Marionette	INFO	Listening on port 44089
+1591411862572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591411946555	Marionette	INFO	Stopped listening on port 44089
+1591411993108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile44EZcz"
+1591411997551	Marionette	INFO	Listening on port 43841
+1591411997648	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591412042253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTs5FSJ"
+1591412042955	Marionette	INFO	Stopped listening on port 43841
+1591412046756	Marionette	INFO	Listening on port 43501
+1591412046808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591412617892	Marionette	INFO	Stopped listening on port 43501
+1591412637702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZqPWrL"
+1591412642301	Marionette	INFO	Listening on port 37033
+1591412642354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crane-technology.herokuapp.com/conteudos, line 6722: ReferenceError: $ is not defined
+1591412663233	Marionette	INFO	Stopped listening on port 37033
+1591412667342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezK0VE1"
+1591412672189	Marionette	INFO	Listening on port 45023
+1591412672288	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591412716845	Marionette	INFO	Stopped listening on port 45023
+1591412717200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTseG7C"
+1591412721562	Marionette	INFO	Listening on port 34029
+1591412721638	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591412772567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec4hFr5"
+1591412775724	Marionette	INFO	Stopped listening on port 34029
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to writeAtomic
+1591412777355	Marionette	INFO	Listening on port 33253
+1591412777409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591413386700	Marionette	INFO	Stopped listening on port 33253
+1591452442209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZvuv8K"
+1591452448400	Marionette	INFO	Listening on port 39551
+1591452448455	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591452498703	Marionette	INFO	Stopped listening on port 39551
+1591452502213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepupPWU"
+1591452506035	Marionette	INFO	Listening on port 41773
+1591452506045	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is null", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is null", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591453144395	Marionette	INFO	Stopped listening on port 41773
+1591453226569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD4b9K0"
+1591453230346	Marionette	INFO	Listening on port 34813
+1591453230399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591453285002	Marionette	INFO	Stopped listening on port 34813
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1591453289776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVQh1Bu"
+1591453294035	Marionette	INFO	Listening on port 44877
+1591453294112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591453346394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem39Et7"
+1591453351149	Marionette	INFO	Stopped listening on port 44877
+1591453351737	Marionette	INFO	Listening on port 36207
+1591453351844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591453701868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile97MwF2"
+*** You are running in headless mode.
+1591453706318	Marionette	INFO	Listening on port 36611
+1591453706397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591453715215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591453717486	Marionette	INFO	Stopped listening on port 36207
+1591453738317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebgMaoi"
+*** You are running in headless mode.
+1591453741283	Marionette	INFO	Listening on port 37277
+1591453741342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591453746423	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591453885105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledueYNg"
+*** You are running in headless mode.
+1591453889213	Marionette	INFO	Listening on port 45557
+1591453889239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591453895438	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591453919051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJTPT3o"
+*** You are running in headless mode.
+1591453923561	Marionette	INFO	Listening on port 32933
+1591453923590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591453927990	Marionette	INFO	Stopped listening on port 32933
+1591454128159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX4pUB0"
+*** You are running in headless mode.
+1591454132855	Marionette	INFO	Listening on port 41467
+1591454132895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591454139742	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591454424041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewOcC1w"
+*** You are running in headless mode.
+1591454427981	Marionette	INFO	Listening on port 43367
+1591454428068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591454434348	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 263: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591454522374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDpxfUV"
+1591454527006	Marionette	INFO	Listening on port 46065
+1591454527038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591454585108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1W3t9d"
+1591454589911	Marionette	INFO	Listening on port 38773
+1591454589965	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591454603030	Marionette	INFO	Stopped listening on port 46065
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591454607334	Marionette	INFO	Stopped listening on port 38773
+1591454673594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFge4fg"
+1591454678192	Marionette	INFO	Listening on port 38729
+1591454678233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591454716673	Marionette	INFO	Stopped listening on port 38729
+1591454719930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevHz3pp"
+1591454724523	Marionette	INFO	Listening on port 35755
+1591454724580	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591454802081	Marionette	INFO	Stopped listening on port 35755
+1591454817760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileylrXEa"
+1591454822869	Marionette	INFO	Listening on port 35417
+1591454822901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591454839219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0yrXt3"
+1591454845204	Marionette	INFO	Listening on port 45367
+1591454845298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591454861864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5tEgQC"
+1591454867435	Marionette	INFO	Listening on port 45065
+1591454867530	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591454939446	Marionette	INFO	Stopped listening on port 35417
+1591454944403	Marionette	INFO	Stopped listening on port 45065
+1591454946390	Marionette	INFO	Stopped listening on port 45367
+1591455433877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesS9xr3"
+1591455438412	Marionette	INFO	Listening on port 44831
+1591455438518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591455440559	Marionette	INFO	Stopped listening on port 44831
+1591457170761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek5W7fN"
+1591457175437	Marionette	INFO	Listening on port 37739
+1591457175493	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591457205652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei1sfRC"
+1591457205979	Marionette	INFO	Stopped listening on port 37739
+1591457209948	Marionette	INFO	Listening on port 41563
+1591457209980	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591457267507	Marionette	INFO	Stopped listening on port 41563
+1591457267952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG9cC59"
+1591457272381	Marionette	INFO	Listening on port 46057
+1591457272483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591457289469	Marionette	INFO	Stopped listening on port 46057
+1591457474299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWgPqKi"
+1591457478991	Marionette	INFO	Listening on port 42597
+1591457479053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591457535912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNKiFur"
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591457541485	Marionette	INFO	Listening on port 33929
+1591457541548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591457545307	Marionette	INFO	Stopped listening on port 42597
+1591457568749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledrTqpe"
+1591457574300	Marionette	INFO	Listening on port 37301
+1591457574457	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591457578358	Marionette	INFO	Stopped listening on port 33929
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200602/r20110914/elements/html/paloma_fy2019.js, line 12: SyntaxError: An invalid or illegal string was specified
+1591457866571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileswmcnN"
+1591457871895	Marionette	INFO	Listening on port 39869
+1591457871981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591457872427	Marionette	INFO	Stopped listening on port 37301
+1591458125649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0VPjxu"
+1591458130113	Marionette	INFO	Listening on port 44125
+1591458130221	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591458133655	Marionette	INFO	Stopped listening on port 39869
+1591458140574	Marionette	INFO	Stopped listening on port 44125
