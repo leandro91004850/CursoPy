@@ -43,7 +43,7 @@ mycursor = mysql.cursor()
 sql = "INSERT INTO python (name, address) VALUES (%s, %s)"
 val = (resultado, cidade)
 
-mycursor.execute(sql, (val,))
+mycursor.execute(sql, (val))
 
 mysql.commit()
 print(mycursor.rowcount, "record inserted.")
