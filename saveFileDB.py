@@ -1,35 +1,43 @@
 import mysql.connector
-
+from time import sleep
 from selenium.webdriver import Firefox
 
 # faz a busca
-url = "https://br.investing.com/equities/via-varejo-sa-historical-data"
+url = "https://br.investing.com/indices/us-30-futures"
 endereco = Firefox()
 endereco.get(url)
 
+endereco.refresh()
 
-# imprimi o resultado
-acao = endereco.find_element_by_xpath('/html/body/div[5]/section/div[1]/h1')
-acaoConvert = acao.text
-print(f'resultado: {acaoConvert}')
+lopps = 10
+rodadas = 1
 
-nomes = "leandro"
-
-
-
-mysql =mysql.connector.connect(
+mysql = mysql.connector.connect(
     host="192.168.1.20",
     user="leandro",
     passwd="",
     database="cursoPY"
 )
+
 mycursor = mysql.cursor()
 
-sql = "INSERT INTO python (name, address) VALUES (%s, %s)"
-val = (acaoConvert, nomes)
+while(rodadas <= lopps):
+    sleep(3)
+    endereco.refresh()
+    # imprimi o resultado
+    acao = endereco.find_element_by_xpath('//*[@id="last_last"]')
+    acaoConvert = acao.text
+    print(f'resultado: {acaoConvert}')
 
-mycursor.execute(sql, val)
+    nome = "Dow Jones"
 
-mysql.commit()
-print(mycursor.rowcount, "record inserted.")
+    sql = "INSERT INTO acoes (nome, papel) VALUES (%s, %s)"
+    val = (acaoConvert, nome)
 
+    mycursor.execute(sql, val)
+
+    mysql.commit()
+    print(mycursor.rowcount, "record inserted.")
+    lopps = lopps + 1
+
+endereco.quit()

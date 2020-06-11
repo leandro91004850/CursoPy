@@ -2663,3 +2663,404 @@ JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityEr
 1591741597389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecgdiNi"
 1591741604476	Marionette	INFO	Listening on port 39307
 1591741604513	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591743471477	Marionette	INFO	Stopped listening on port 39307
+1591743475716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUMxjt0"
+1591743483132	Marionette	INFO	Listening on port 43167
+1591743483174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591743498603	Marionette	INFO	Stopped listening on port 43167
+1591743907951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0ANnk0"
+1591743921070	Marionette	INFO	Listening on port 39815
+1591743921150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591744030961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKwDzRd"
+1591744043360	Marionette	INFO	Listening on port 35889
+1591744043445	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591744052613	Marionette	INFO	Stopped listening on port 39815
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591744627822	Marionette	INFO	Stopped listening on port 35889
+1591744686278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKg2AbP"
+1591744697495	Marionette	INFO	Listening on port 33377
+1591744697598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591744720699	Marionette	INFO	Stopped listening on port 33377
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://tpc.googlesyndication.com/sodar/sodar2.js, line 24: NotFoundError: Node.removeChild: The node to be removed is not a child of this node
+1591744782276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMeDJPo"
+1591744794359	Marionette	INFO	Listening on port 34505
+1591744794455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591744816624	Marionette	INFO	Stopped listening on port 34505
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://tpc.googlesyndication.com/sodar/sodar2.js, line 24: NotFoundError: Node.removeChild: The node to be removed is not a child of this node
+1591745587313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiAcG45"
+1591745595927	Marionette	INFO	Listening on port 35245
+1591745595958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591745621623	Marionette	INFO	Stopped listening on port 35245
+1591745727945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerzYFdF"
+1591745739263	Marionette	INFO	Listening on port 46105
+1591745739566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591745764878	Marionette	INFO	Stopped listening on port 46105
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://tpc.googlesyndication.com/sodar/sodar2.js, line 24: NotFoundError: Node.removeChild: The node to be removed is not a child of this node
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591745784132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0pX4eG"
+1591745791904	Marionette	INFO	Listening on port 44679
+1591745791970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591745820905	Marionette	INFO	Stopped listening on port 44679
+JavaScript error: https://tpc.googlesyndication.com/sodar/sodar2.js, line 24: NotFoundError: Node.removeChild: The node to be removed is not a child of this node
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591746144660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOB5ggW"
+1591746151633	Marionette	INFO	Listening on port 40355
+1591746151712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020060103.js, line 6: uncaught exception: undefined
+1591746172155	Marionette	INFO	Stopped listening on port 40355
+JavaScript error: https://tpc.googlesyndication.com/sodar/sodar2.js, line 24: NotFoundError: Node.removeChild: The node to be removed is not a child of this node
+1591746476741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef9y1Mn"
+1591746483609	Marionette	INFO	Listening on port 43101
+1591746483658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591746501919	Marionette	INFO	Stopped listening on port 43101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591746573685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNwrp2E"
+1591746581203	Marionette	INFO	Listening on port 39741
+1591746581307	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591746682706	Marionette	INFO	Stopped listening on port 39741
+1591746700450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMx1gdu"
+1591746707735	Marionette	INFO	Listening on port 44879
+1591746707829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1591746897116	Marionette	INFO	Stopped listening on port 44879
+1591746899044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelrXBgJ"
+1591746909114	Marionette	INFO	Listening on port 33093
+1591746909186	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591747133788	Marionette	INFO	Stopped listening on port 33093
+1591747292993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRGztH5"
+1591747300924	Marionette	INFO	Listening on port 42155
+1591747301027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020060103.js, line 6: uncaught exception: undefined
+1591747329529	Marionette	INFO	Stopped listening on port 42155
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591747335483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSEx8mU"
+1591747342787	Marionette	INFO	Listening on port 38657
+1591747342866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591747437632	Marionette	INFO	Stopped listening on port 38657
+1591747550565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNw1Nz6"
+1591747557588	Marionette	INFO	Listening on port 39857
+1591747557696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sodar/sodar2.js, line 24: NotFoundError: Node.removeChild: The node to be removed is not a child of this node
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020060103.js, line 6: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591747694325	Marionette	INFO	Stopped listening on port 39857
+1591747697329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoTkIH2"
+1591747704710	Marionette	INFO	Listening on port 40245
+1591747704779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020060103.js, line 6: uncaught exception: undefined
+[Child 45592, MediaDecoderStateMachine #1] WARNING: Decoder=7f9cda26fc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 45592, MediaDecoderStateMachine #1] WARNING: Decoder=7f9cda26fc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1591747813851	Marionette	INFO	Stopped listening on port 40245
+1591747816813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletvDhfM"
+1591747824506	Marionette	INFO	Listening on port 43027
+1591747824531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020060103.js?21066361, line 6: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020060802.js, line 6: uncaught exception: undefined
+1591748002224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIqBnh7"
+1591748014308	Marionette	INFO	Listening on port 36983
+1591748014432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591748020264	Marionette	INFO	Stopped listening on port 43027
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020060103.js, line 6: uncaught exception: undefined
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+1591748398330	Marionette	INFO	Stopped listening on port 36983
+1591748400509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileieeHlx"
+1591748408608	Marionette	INFO	Listening on port 38741
+1591748408643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020060103.js, line 6: uncaught exception: undefined
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020060103.js, line 6: uncaught exception: undefined
+1591748552705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileso313T"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591748555586	Marionette	INFO	Stopped listening on port 38741
+1591748561634	Marionette	INFO	Listening on port 33151
+1591748561725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.pYPiPEsIel4.O/m=auth2/rt=j/sv=1/d=1/ed=1/am=wQE/rs=AGLTcCOey13j2hPNXahsyr0hsvfbpOW7OQ/cb=gapi.loaded_0, line 195: uncaught exception: [object Object]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 48239, MediaDecoderStateMachine #1] WARNING: Decoder=7f705c449c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 48239, MediaDecoderStateMachine #1] WARNING: Decoder=7f705c449c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1591748708129	Marionette	INFO	Stopped listening on port 33151
+1591748715684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoM837T"
+1591748722784	Marionette	INFO	Listening on port 42531
+1591748722819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020060103.js, line 6: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://tpc.googlesyndication.com/sodar/sodar2.js, line 24: NotFoundError: Node.removeChild: The node to be removed is not a child of this node
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html, line 182: ReferenceError: osdlfm is not defined
+JavaScript error: https://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032302D30362D31305F30337D7B7331323333353231317D7B4335367D7B53596E4975615735325A584E306157356E4C6D4E7662513D3D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583330307D7B593136397D7B66367D7B7251554A5549433867646D56796158707662694176494445674C7942334C32383D7D7B4C363539377DFEFE&userIpAddr=216.98.209.30&userUA=Mozilla%2F5.0+%28X11%3B+Ubuntu%3B+Linux+x86_64%3B+rv%3A77.0%29+Gecko%2F20100101+Firefox%2F77.0&playerVersion=3.0.0&fpl=-1&debugInformation=ABT+%2F+verizon+%2F+1+%2F+w%2Fo&isWePassGdpr=1&csuuid=5ee0288c96a20&debugInfo=12335211_ABT+%2F+verizon+%2F+1+%2F+w%2Fo&debugPlayerSession=&sta=12335211&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed15edolwrvpsi&secondaryContent=&x=300&y=169&pubUrl=https%3A%2F%2Fbr.investing.com%2Findices%2Fus-30-futures&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=left&flow_direction=bl&flow_horizontalOffset=10&flow_bottomOffset=10&impGap=10&flow_width=400&flow_height=225&videoType=flow&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-16.161800384521484&geoLong=-47.79999923706055&vpTemplate=6597&flowMode=below&isRealPreroll=0&playerApiId=&isApp=0&ccpa=0&ccpaConsent=, line 2428: TypeError: playerIframe.contentDocument is null
+JavaScript error: https://cdn.ampproject.org/rtv/012005262159000/v0/amp-analytics-0.1.js, line 119: NS_ERROR_NOT_INITIALIZED: 
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe5fade2c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe5fade2c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe5fa09d000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe5fa09d000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+JavaScript error: https://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032302D30362D31305F30337D7B7331323333353231317D7B4335367D7B53596E4975615735325A584E306157356E4C6D4E7662513D3D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583330307D7B593136397D7B66367D7B7251554A5549433867646D56796158707662694176494445674C7942334C32383D7D7B4C363539377DFEFE&userIpAddr=216.98.209.30&userUA=Mozilla%2F5.0+%28X11%3B+Ubuntu%3B+Linux+x86_64%3B+rv%3A77.0%29+Gecko%2F20100101+Firefox%2F77.0&playerVersion=3.0.0&fpl=-1&debugInformation=ABT+%2F+verizon+%2F+1+%2F+w%2Fo&isWePassGdpr=1&csuuid=5ee0288c96a20&debugInfo=12335211_ABT+%2F+verizon+%2F+1+%2F+w%2Fo&debugPlayerSession=&sta=12335211&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed15edolwrvpsi&secondaryContent=&x=300&y=169&pubUrl=https%3A%2F%2Fbr.investing.com%2Findices%2Fus-30-futures&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=left&flow_direction=bl&flow_horizontalOffset=10&flow_bottomOffset=10&impGap=10&flow_width=400&flow_height=225&videoType=flow&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-16.161800384521484&geoLong=-47.79999923706055&vpTemplate=6597&flowMode=below&isRealPreroll=0&playerApiId=&isApp=0&ccpa=0&ccpaConsent=, line 2428: TypeError: playerIframe.contentDocument is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe5f1e4c400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe5f1e4c400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe5f0d40400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe5f0d40400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032302D30362D31305F30337D7B7331323333353231317D7B4335367D7B53596E4975615735325A584E306157356E4C6D4E7662513D3D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583330307D7B593136397D7B66367D7B7251554A5549433867646D56796158707662694176494445674C794276626D7835564864767D7B4C363539377DFEFE&userIpAddr=216.98.209.30&userUA=Mozilla%2F5.0+%28X11%3B+Ubuntu%3B+Linux+x86_64%3B+rv%3A77.0%29+Gecko%2F20100101+Firefox%2F77.0&playerVersion=3.0.0&fpl=-1&debugInformation=ABT+%2F+verizon+%2F+1+%2F+onlyTwo&isWePassGdpr=1&csuuid=5ee0288c96a20&debugInfo=12335211_ABT+%2F+verizon+%2F+1+%2F+onlyTwo&debugPlayerSession=&sta=12335211&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed15edolwrvpsi&secondaryContent=&x=300&y=169&pubUrl=https%3A%2F%2Fbr.investing.com%2Findices%2Fus-30-futures&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=left&flow_direction=bl&flow_horizontalOffset=10&flow_bottomOffset=10&impGap=10&flow_width=400&flow_height=225&videoType=flow&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-16.161800384521484&geoLong=-47.79999923706055&vpTemplate=6597&flowMode=below&isRealPreroll=0&playerApiId=&isApp=0&ccpa=0&ccpaConsent=, line 2428: TypeError: playerIframe.contentDocument is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Fbr.investing.com&rpcToken=809606835.268865, line 1: ReferenceError: lso is not defined
+JavaScript error: https://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032302D30362D31305F30337D7B7331323333353231317D7B4335367D7B53596E4975615735325A584E306157356E4C6D4E7662513D3D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583330307D7B593136397D7B66367D7B7251554A5549433867646D56796158707662694176494445674C7942334C32383D7D7B4C363539377DFEFE&userIpAddr=216.98.209.30&userUA=Mozilla%2F5.0+%28X11%3B+Ubuntu%3B+Linux+x86_64%3B+rv%3A77.0%29+Gecko%2F20100101+Firefox%2F77.0&playerVersion=3.0.0&fpl=-1&debugInformation=ABT+%2F+verizon+%2F+1+%2F+w%2Fo&isWePassGdpr=1&csuuid=5ee0288c96a20&debugInfo=12335211_ABT+%2F+verizon+%2F+1+%2F+w%2Fo&debugPlayerSession=&sta=12335211&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed15edolwrvpsi&secondaryContent=&x=300&y=169&pubUrl=https%3A%2F%2Fbr.investing.com%2Findices%2Fus-30-futures&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=left&flow_direction=bl&flow_horizontalOffset=10&flow_bottomOffset=10&impGap=10&flow_width=400&flow_height=225&videoType=flow&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-16.161800384521484&geoLong=-47.79999923706055&vpTemplate=6597&flowMode=below&isRealPreroll=0&playerApiId=&isApp=0&ccpa=0&ccpaConsent=, line 2428: TypeError: playerIframe.contentDocument is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe611f05000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe611f05000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe614303800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 48840, MediaDecoderStateMachine #1] WARNING: Decoder=7fe614303800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-Wud6wF/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+JavaScript error: , line 0: uncaught exception: 7
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://s.srvmath.com/2/4.69.1/main.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032302D30362D31305F30337D7B7331323333353231317D7B4335367D7B53596E4975615735325A584E306157356E4C6D4E7662513D3D7D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583330307D7B593136397D7B66367D7B7251554A5549433867646D56796158707662694176494445674C794276626D7835564864767D7B4C363539377DFEFE&userIpAddr=216.98.209.30&userUA=Mozilla%2F5.0+%28X11%3B+Ubuntu%3B+Linux+x86_64%3B+rv%3A77.0%29+Gecko%2F20100101+Firefox%2F77.0&playerVersion=3.0.0&fpl=-1&debugInformation=ABT+%2F+verizon+%2F+1+%2F+onlyTwo&isWePassGdpr=1&csuuid=5ee0288c96a20&debugInfo=12335211_ABT+%2F+verizon+%2F+1+%2F+onlyTwo&debugPlayerSession=&sta=12335211&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed15edolwrvpsi&secondaryContent=&x=300&y=169&pubUrl=https%3A%2F%2Fbr.investing.com%2Findices%2Fus-30-futures&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=left&flow_direction=bl&flow_horizontalOffset=10&flow_bottomOffset=10&impGap=10&flow_width=400&flow_height=225&videoType=flow&gdpr=0&gdprConsent=&contentFeedId=&geoLati=-16.161800384521484&geoLong=-47.79999923706055&vpTemplate=6597&flowMode=below&isRealPreroll=0&playerApiId=&isApp=0&ccpa=0&ccpaConsent=, line 2428: TypeError: playerIframe.contentDocument is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591750071946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehzfEE6"
+1591750079381	Marionette	INFO	Listening on port 34991
+1591750079450	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://cdn.revcontent.com/build/js/rev2.min.js?v=d7b56a7ea49af5bb6d1ace56c0197178666de1dd&del=https://trends.revcontent.com/&lg=https://cdn.revcontent.com/assets/img/rc-logo.png&ci=https://cdn.revcontent.com/assets/img/icon-close.png&ab=https://trends.revcontent.com/rc-about.php&ldr=https://cdn.revcontent.com/assets/img/rc-spinner-md.gif&ht=https://trends.revcontent.com/rc-interests.php&env=p0, line 9: NS_ERROR_FAILURE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: 7
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
