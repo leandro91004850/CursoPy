@@ -13,7 +13,7 @@ while(rodadas <= pesquisas):
     navegado.get(url)
 
     searchBox = navegado.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
-    searchBox.send_keys('mexico é muita droga')
+    searchBox.send_keys('MAFIA ITALIANA')
 
     searchBox = navegado.find_element_by_xpath('/html/body/div/div[3]/form/div[2]/div[1]/div[3]/center/input[1]')
     searchBox.click()

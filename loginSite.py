@@ -2,18 +2,18 @@ from selenium import webdriver
 
 
 #acesso o site
-url = "https://www.facebook.com/"
+url = "http://gestao.obti.com.br:8080/mk/login/?sys=MK0"
 driver = webdriver.Firefox()
 driver.get(url)
 
 #informacoes de acesso
-email = "seu-email"
-password = "sua-senha"
+email = "leandro"
+password = "senha"
 
 # checar os campos
-email_xpath = '//*[@id="email"]'
-password_xpath = '//*[@id="pass"]'
-login_button_xpath = '//*[@id="u_0_b"]'
+email_xpath = '/html/body/div/div[2]/form/input[2]'
+password_xpath = '/html/body/div/div[2]/form/input[3]'
+login_button_xpath = '/html/body/div/div[2]/form/button'
 
 # inserir informacoes nos campos
 email_element = driver.find_element_by_xpath(email_xpath)
