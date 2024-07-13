@@ -33,3 +33,24 @@
     virtualenv -p python3.7.3 api
 
     ```   
+
+## Instalando o FASTAPI OBS: Executar como root
+
+### Documentação [FastAPI](https://fastapi.tiangolo.com/pt/)
+    ```
+    pip install fastapi
+
+    ```    
+
+### Você também precisará de um servidor ASGI para produção, tal como [Uvicorn](https://www.uvicorn.org/) ou [Hypercorn](https://www.hypercorn.org/).
+    ```
+    pip install "uvicorn[standard]"
+
+    ```
+### rodando o Uvicorn
+    ```
+    uvicorn main:app --reload
+
+    ```
+### Documentaçao http://localhost:8000/docs ou http://localhost:8000/redoc
+
