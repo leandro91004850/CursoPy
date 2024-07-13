@@ -54,3 +54,8 @@
     ```
 ### Documentaçao http://localhost:8000/docs ou http://localhost:8000/redoc
 
+## Implementação do easygoogletranslate 0.0.4 [easygoogletranslate](https://pypi.org/project/easygoogletranslate/)
+    ```
+    pip install easygoogletranslate
+
+    ```
