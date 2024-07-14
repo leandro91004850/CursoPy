@@ -1,7 +1,7 @@
 from typing import Union
 from fastapi import FastAPI, Path
 from easygoogletranslate import EasyGoogleTranslate
-from english import English
+from fastAPI.english import English
 
 app = FastAPI()
 
