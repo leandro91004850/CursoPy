@@ -1,4 +1,6 @@
 import mysql.connector as sql
+from fastapi.encoders import jsonable_encoder
+from fastapi.responses import JSONResponse
 
 class English:
         
@@ -13,12 +15,16 @@ class English:
 
         try:
             cursor = mysql.cursor()
-            cursor.execute("SELECT * FROM english_words")
+            cursor.execute("SELECT * FROM english_words WHERE acertos <= 4 OR acertos IS NULL ORDER BY RAND() LIMIT 1")
             result = cursor.fetchall()
             mysql.commit()
             cursor.close()
+            all_rows = []
             for row in result:
-                print(row)
+                row_dict = dict(zip(cursor.column_names, row))
+                all_rows.append(row_dict)
+            return JSONResponse(content=jsonable_encoder(all_rows))
+        
         except Exception as e:
             print("Error: ", e)
         
