@@ -5,13 +5,12 @@ from english import English
 
 app = FastAPI()
 
-
 @app.get("/translate/{english_text}")
 def read_root(english_text: str = Path(..., description="The text to be translated")):
     translator = EasyGoogleTranslate()
     result = translator.translate(english_text, target_language='pt')
-    print(English.hello_world())
-    
+    English.english_learning()
+        
     return {
             "Português": result, 
             "English": english_text
