@@ -28,13 +28,19 @@ class English:
             for row in result:
                 portugues_alternativas = []
                 for row2 in result2:
-                    portugues_alternativas.append(row2[2])                   
-                    
+                    if row2[2] not in portugues_alternativas:
+                        portugues_alternativas.append(row2[2])
+
+                # Garantir que a tradução correta esteja sempre nas alternativas
+                if row[2] not in portugues_alternativas:
+                    portugues_alternativas.append(row[2])
+
                 row_dict = dict(zip(cursor.column_names, row))
                 all_rows.append(row_dict)
-                
+
                 for row_dict in all_rows:
                     row_dict['portugues_alternativas'] = portugues_alternativas
+
             return JSONResponse(content=jsonable_encoder(all_rows))
         
         except Exception as e:
