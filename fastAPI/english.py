@@ -8,10 +8,10 @@ class English:
     def banco_dados():
         return sql.connect(
             host="",
-            port="3306",
-            user="leandro",
+            port="",
+            user="",
             passwd="",
-            database="simulado"
+            database=""
         )    
     
     @staticmethod

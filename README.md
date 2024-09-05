@@ -49,7 +49,7 @@ pip install "uvicorn[standard]"
 ```
 ### rodando o Uvicorn
 ```
-uvicorn main:app --reload
+uvicorn main:app --reload --port 8000 --log-level debug --host 0.0.0.0
 
 ```
 ### Documentaçao http://localhost:8000/docs ou http://localhost:8000/redoc
